@@ -1,0 +1,19 @@
+<html>
+	<head>
+		<title>Activity 1</title>
+	</head>
+	<body bgcolor="lightblue">
+		<center>
+		<h1> Quote of the day</h1>
+		</center>
+		<h3><b> <i>Have fire in your veins<br>and beauty in your soul</i></b></h3>
+		<hr color="green">
+		<center>
+		<p> Be<del>negative</del><ins>positive</ins>
+		<p align="right"><big>H<sub>2</sub>O</big><i>is life</i></p>
+<br>
+<br>
+<br>
+		<p align="left"><big>This is our 3<sup>rd</sup> lab session</big></p>
+	</body>
+</html>

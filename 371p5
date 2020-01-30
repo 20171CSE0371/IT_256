@@ -5,7 +5,7 @@
 	<body bgcolor="lightblue">
 		
 		<center>
-		<h1 title="hello html!">this is a heading</h1>
+		<marquee direction="right" ><h1 title="hello html!">this is a heading</h1></marquee>
 		<p dir="rtl">it</p>
 		hello<br> meeting at 4pm<br> thanks<br> shweta
 		<center><i><u> i am in center italic and underlined
@@ -22,6 +22,7 @@
 		<mark> bye guys</mark>
 		<strong> manmohan</strong>
 		<bdo dir="rtl">my name is bugade</bdo>
+		<marquee> hi shweta mam</marquee>
 		<address> smaran</address>
 		<p> my favorite color is <del>blue</del><ins>red</ins>!</p>
 		</center>	

@@ -1,0 +1,15 @@
+<html>
+<head>
+<title>bye</title>
+</head>
+<body>
+<OL TYPE="i">
+<LI> list item..</LI>
+<LI> list item...</LI>
+</OL>
+<P>text..</P>
+<OL TYPE="i" START="3>
+<LI>list item..</LI>
+</OL>
+</body>
+</html>

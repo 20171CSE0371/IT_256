@@ -1,0 +1,19 @@
+<html>
+	<head>
+		<title>nothing</title>
+	</head>
+	<body>
+		<div id="menu" align="left">
+			<a href="http://www.iitd.ac.in/">HOME</a> |
+			<a href="http://www.iitb.ac.in/">CONTACT</a> |
+			<a href="/home/6CSE6/Documents/BUGADE371/371p6">ABOUT</a> |
+			<a href="mailto"shwetasingh.chandel@gmail.com">send mail </a>
+		</div>
+	
+		<div id="content" align="center" style="backgroung-color:lightblue;padding:50px">
+		<h3>article name</h3>
+		<p>actual content goes here....<br>
+		this is the example of <span style="color:green;background-color:lightgray">span tag </span> along with style attribute.</p>
+		</div>
+	</body>
+</html>

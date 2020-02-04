@@ -1,0 +1,23 @@
+<html>
+	<body>
+
+		<table border="2" bgcolor="lightpink" width="30%" height="300" align="center"
+		cellspacing="10" cellpadding="10" bordercolor="blue">
+		<tr>
+			<th> Name </th>
+			<th> Salary </th>
+		</tr>
+		<tr>
+			<td align="center"> John</td>
+			<td align="center"> 20000</td>
+		</tr>
+		<tr>
+			<td align="center"> Tom</td>
+			<td align="center"> 40000</td>
+		</tr>
+
+		<caption align="top"><u> MY TABLE </u><br></caption>
+
+		</table>
+	</body>
+</html>

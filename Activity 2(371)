@@ -1,0 +1,25 @@
+<html>
+	<head>
+		<title>Activity 2</title>
+	</head>
+	<body bgcolor="lightblue">
+		<center>
+		<h1><u>Nested list,Marquee,Font</u></h1>
+		</center>
+		<marquee> Submit this activity soon</marquee>
+		<span style="color:green">i am the new text </span>
+		<ul type="rectangle">
+			<li> fruits
+			<ul type="i"><li>banana</li></ol>
+			<li type="circle">yellow</li>	
+			<li>apple</li>	
+			
+		</ul>	
+		<ul>	
+			<li> vegetables<ul type="a" start="3"><li>tomato</li>
+<li> potato</li></ul></li>
+			<ol>
+		</ul>
+	</body>
+</html>
+		

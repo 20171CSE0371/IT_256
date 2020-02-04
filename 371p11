@@ -1,0 +1,23 @@
+<html>
+	<head>
+		<title>nothing</title>
+	</head>
+	<body bgcolor="lightblue">
+		<dl>
+			<dt>cse</dt>
+				<ol type="a">
+					<li>operating systems</li>
+					<li>algorithms</li>
+					<li>data structures</li>
+				</ol>
+		</dl>
+		<dl>
+			<dt>ece</dt>
+				<ol type="I" start="2">
+					<li>wireless networks</li>
+					<li>digital electronics</li>
+					<li>embedded systems</li>
+		</dl>
+	</body>
+</html>
+			

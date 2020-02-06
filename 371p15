@@ -1,0 +1,24 @@
+<html>
+	<head>
+		<title>nothing</title>
+	</head>
+	<frameset cols="*,*">
+		<frameset rows="*">
+			<frame  src="/home/6CSE6/Documents/BUGADE371/371p11">
+			<frame  src="/home/6CSE6/Documents/BUGADE371/371p7">
+		</frameset>
+
+		<frameset rows="*,*">
+			<frame  src="/home/6CSE6/Documents/BUGADE371/371p8">
+			<frame  src="/home/6CSE6/Documents/BUGADE371/371p9">
+		</frameset>
+
+		
+		
+		<noframes>
+			<body>your browser does not support frames.</body>
+		</noframes>
+	</frameset>
+	
+</html>
+		

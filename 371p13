@@ -2,12 +2,14 @@
 	<head>
 		<title>nothing</title>
 	</head>
-	<body style="backgroung-image:url(unnamed.jpg);border-color:yellow">
+	<body style="backgroung-image:url(unnamed.jpg)">
 	<center>
-	<img src="/home/6CSE6/Documents/BUGADE371/13189.jpg" alt="my favorite flower" border="5" width="50%"></center>
-	<a href="http://www.iitd.ac.in/">
-	<img src="/home/6CSE6/Documents/BUGADE371/13189.jpg" alt="image as a link" style="width:42px;height:42px;border:0"</a>
+	<img src="/home/6CSE6/Documents/BUGADE371/13189.jpg" alt="my favorite flower" style="border-color:yellow" border="5" width="50%"></center>
+	<a href="http://www.iitd.ac.in/" target="_blank">
+	<img src="/home/6CSE6/Documents/BUGADE371/13189.jpg" alt="image as a link" style="width:42px;height:42px"</a>
 	<p><img src="/home/6CSE6/Documents/BUGADE371/13189.jpg" alt="flower" style="float:right;width:42px;height:42px">the image will float to the right of the text.</p>
 	<p><img src="/home/6CSE6/Documents/BUGADE371/13189.jpg" alt="flower" style="float:left;width:300px;height:300px">the image will float to the left of the text.</p>
+	
 	</body>
+	 
 </html>

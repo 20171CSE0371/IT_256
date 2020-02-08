@@ -4,9 +4,9 @@
 	</head>
 	<body>
 		<p> document content goes here..</p>
-		<iframe src="" width="555" height="200" style="border:2px solid red"></iframe>
+		<iframe src="/home/6CSE6/Documents/BUGADE371/371p10" width="555" height="200" style="border:2px solid red"></iframe>
 		
-		<iframe src="" name="iframe_a"></iframe>
+		<iframe src="/home/6CSE6/Documents/BUGADE371/371p13" name="iframe_a"></iframe>
 		
 		<p><a href="" target="iframe_a">load new web page</a></p>
 		<p> document content also goes here..</p>

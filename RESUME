@@ -3,7 +3,8 @@
 		<titl></title>
 	</head>
 	<body>
-	<table bgcolor="khaki" align="center" height="10%" width="90%">
+	<div style="border:2px solid black;margin:auto;width:1000">
+	<table bgcolor="khaki"  width="100%" >
 		<tr>
 		<td>
 		<img src="https://c4.wallpaperflare.com/wallpaper/573/100/969/joker-batman-black-hd-the-joker-digital-art-wallpaper-preview.jpg" alt="image of a picture" style="float:right;width:200px;height:100px;">
@@ -33,12 +34,23 @@
 			<li>develop chatbot</li>
 			<li>satisfy customer requirements with our development</li>
 			<li>occasionally interact</li>
+			<li>contribute some ideas</li>	<br><br>	
+		</ul>
+	</ul>
+	<ul>
+		<li>Simpragma Solutions</li><br>
+		Job Responsibilities<br><br>
+		<ul type="disc">
+			<li>develop chatbot</li>
+			<li>satisfy customer requirements with our development</li>
+			<li>occasionally interact</li>
 			<li>contribute some ideas</li>		
 		</ul>
 	</ul>
 	</dd>
 	</dl><br>
-	<table border="2" >
+	<dd>
+	<table border="4" cellpadding="2" cellspacing="2" >
 	<tr row bgcolor="pink">
 		<th>qualifications</th>
 		<th>board</th>
@@ -46,7 +58,7 @@
 		<th>year</th>
 	</tr>
 	</table>
-	
+	</dd>
 		</td>
 		</tr>
 	</table>

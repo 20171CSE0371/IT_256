@@ -1,0 +1,19 @@
+<html>
+	<head>
+	<link rel="stylesheet" href="style2.css">
+	</head>
+	<body>
+	<ul>
+		<li>this is inside first li elements</li>
+		<li><i>this is ita;lics and red</i></li>
+	</ul>
+	<div>
+	<u>paragraph</u>
+	<p><u>paragraph</u></p>
+	<p>no style will be applied here</p>
+	
+	<h1>hi</h1>
+	<h3>bye</h3>
+	<h2>smaran</h2>
+</body>
+</html>

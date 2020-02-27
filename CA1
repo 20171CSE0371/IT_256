@@ -1,0 +1,30 @@
+<html>
+	<head>
+		<title>CA1</title>
+	</head>
+	<frameset rows="16%,35%,20%,25%,*">
+		<frameset cols="*">
+			<frame  src="/home/6CSE6/Documents/BUGADE371/CA1/p1">
+		</frameset>
+
+		<frameset cols="*,*,*">
+			<frame  src="/home/6CSE6/Documents/BUGADE371/CA1/p2">
+			<frame  src="/home/6CSE6/Documents/BUGADE371/CA1/p3">
+			<frame  src="/home/6CSE6/Documents/BUGADE371/CA1/p4">
+		</frameset>
+
+		<frameset cols="*">
+			<frame src="/home/6CSE6/Documents/BUGADE371/CA1/p5">
+		</frameset>
+		
+		<frameset cols="70%,30%">
+			<frame src="/home/6CSE6/Documents/BUGADE371/CA1/p6">
+			<frame src="/home/6CSE6/Documents/BUGADE371/CA1/p7">
+		</frameset>
+
+		<frameset cols="*">
+			<frame src="/home/6CSE6/Documents/BUGADE371/CA1/p8">
+		</frameset>
+	</frameset>
+	
+</html>

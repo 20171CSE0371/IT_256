@@ -1,0 +1,22 @@
+<html>
+	<head>
+		<title>p2</title>
+	</head>
+	<body bgcolor="lightblue">
+	<p><b>B.Tech courses</b></p>
+	<br>
+	<ul type="disc">
+		<li>mechanical</li>
+		<li>civil</li>
+		<li><span style="color:green;background-color:yellow">computer science</li>
+			<ol type="i">
+				<li>CSE</li>
+				<li>ISE</li>
+				<li>COM</li>
+			</ol>
+		<li>electronics</li>
+		<li>petroleum</li>
+		<li>electrical</li>
+	</ul>
+	</body>
+</html>

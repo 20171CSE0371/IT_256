@@ -1,0 +1,17 @@
+<html>
+	<head>
+		<title>p3</title>
+	</head>
+	<body bgcolor="lightblue">
+		<center>
+		<p><b><u>Welcome to cse department</u></b></p>
+		<p>department of computer science has three branches of students</p>
+		</center>
+		<ol type="i">
+			<li>8<sub>th</sub> SEM</li>
+			<li>6<sub>th</sub> SEM</li>
+			<li>4<sub>th</sub> SEM</li>
+		</ol>
+	</body>
+</html>
+		

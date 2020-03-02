@@ -1,0 +1,84 @@
+<html>
+<head>
+<title>CA1</title>
+</head>
+<body>
+<div>
+<table border="0">
+<tr>
+<td colspan="4" style="background-color:lightgreen">
+<img src="rose.jpg" alt="rose" style="float:right;width:5%;height:5%">
+</td>
+</tr>
+<tr >
+<td valign="top" style="background-color:lightgrey">
+<dl>
+<dt><b>B.tech Courses</b></dt>
+<dd>
+<ul>
+<li>Mechanical</li>
+<li>Civil</li>
+<li><mark>Computer science</mark></li>
+<ol type="1">
+<li>CE</li>
+<li>ISE</li>
+<li>COM</li>
+</ol>
+<li>Electronics</li>
+<li>Petroleum</li>
+<li>Electrical</li>
+</ul>
+</dd>
+</dl>
+</td>
+<td valign="top" colspan="2" bgcolor="khaki">
+<p align="center"><u><b>Welcome to <span style="color:red">CSE</span> Dept</b></u></p>
+<p align="center">Department of computer science has three batches of students</p>
+<ol type="I">
+<li>8<sup>th</sup> SEM</li>
+<li>6<sup>th</sup> SEM</li>
+<li>4<sup>th</sup> SEM</li>
+</ol>
+</td>
+<td valign="top">
+<p style="color:blue"><b>Internet technology course</b></p>
+<br>
+<p>This course introduces students to basic web design using hypertext markup language(HTML 5) and Cascading style sheets(CSS)</p>
+<br>
+<a href="https://knowledgepro.com/" target="_blank">download course handout</a>
+</td>
+</tr>
+</table>
+</div>
+<hr color="grey">
+<div style="background-color:brown">
+<p align="center"><img src="rose.jpg" alt="rose" style="float:center;width:10%;height:10%"></p>
+</div>
+<br>
+<div>
+<table width="100%" height="30%" border="1">
+<tr>
+<td>
+<table align="center"border="2" bordercolor="red">
+<tr>
+<th bgcolor="green">Group A</td>
+<th bgcolor="green">Group B</td>
+</tr>
+<tr>
+<td>IP batch</td>
+<td>Non-IP batch</td>
+</tr>
+<caption align="top">8<sub>th</sub> SEM</caption>
+</table>
+</td>
+<td align="center">
+<a href="sudanmadhu123@gmail.com"><i>Email:</i></a>
+</td>
+</tr>
+</table>
+</div>
+<div>
+<p align="center" style="background-color:lightgreen">&copy;Presidency University,Itgalpura,Bangalore-64</p>
+</div>
+</body>
+</html>

@@ -1,0 +1,32 @@
+<html>
+	<head>
+	<style>
+		p.one{border-style:dotted;border-width:thick;}
+		p.dashed{border-style:dashed;}
+		p.two{border-style:solid;border-width:2px 10px 4px 20px;border-color:red green blue yellow;border-left:6px solid red;}
+		p.double{border-style:double;border-left:6px solid red;}
+		p.groove{border-style:groove;border-color:hsl(0,0%,72%);}
+		p.ridge{border-style:ridge;}
+		p.inset{border-style:inset;}
+		p.outset{border-style:outset;}
+		p.none{border-style:none;}
+		p.hidden{border-style:hidden;}
+		p.mix{border-style:dotted dashed solid double;}
+		p.specific{border-top-style:dotted;border-right-style:solid;border-bottom-style:dotted;border-left-style:solid;}
+	</style>
+	</head>
+	<body style=backgroundcolor="lightblue">
+	<p class="one">manmohan</p>
+	<p class="dashed">manmohan</p>
+	<p class="two">manmohan</p>
+	<p class="double">manmohan</p>
+	<p class="groove">manmohan</p>
+	<p class="ridge">manmohan</p>
+	<p class="inset">manmohan</p>
+	<p class="outset">manmohan</p>
+	<p class="none">manmohan</p>
+	<p class="hidden">manmohan</p>
+	<p class="mix">manmohan</p>
+	<p class="specific">manmohan</p>
+	</body>
+</html>

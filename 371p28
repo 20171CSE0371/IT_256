@@ -1,0 +1,30 @@
+<html>
+	<head>
+	<style>
+		h1
+		{
+			color:red;
+			text-shadow:4px 4px 8px red;
+			text-align:center;
+			letter-spacing:3px;
+			text-decoration:line-through;
+			text-transform:capitalize;
+		}
+		p.ex1
+		{
+			direction:rtl;
+			letter-spacing:3px;
+			word-spacing:80px;
+		}
+		p
+		{
+			text-indent:50px;
+		}
+	</style>
+	</head>
+	<body>
+		<h1>this is green colored and centered aligned</h1>
+		<p class="ex1">this is right-to-left text direction.</p>
+		<p>the institute has an alumni offiice and a development</p>
+	</body>
+</html>

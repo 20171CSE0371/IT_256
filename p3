@@ -1,0 +1,18 @@
+<html>
+	<head>
+	<style>
+	p{color:red;}
+	p.exe1{display:none;}
+	p.exe2{display:inline;}
+	p.exe3{display:block;}
+	p.exe4{display:inline-block;width:30px;}
+	</style>
+	</head>
+	<body>
+	what is my name<p>bugade</p>
+	hello everyone<p class="exe1">hi hello</p>
+	what ius your name <p class="exe2">my name is </p>
+	welcome to presidency<p class="exe3">hello presidency</p>
+	which university do u study<p class="exe4">presidency university itgalpura rajanukunte yelahanka bangalore</p>
+	</body>
+</html>

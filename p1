@@ -1,0 +1,17 @@
+<html>
+	<head>
+	<style>
+div{
+	width:200px;
+	border:15px solid green;
+	padding:15px;
+	margin:15px;
+}	
+	</style>
+	</head>
+	<body>
+	<div><center>
+		<p>hi</p></center>
+	</div>
+	</body>
+</html>

@@ -1,0 +1,10 @@
+<html>
+	<head>
+		<link rel="stylesheet" href="style.css">
+	</head>
+	<body>
+		<p> welcome<span class="a">hi how are you</span></p>
+		<span class="b">hi who are you</span>
+		<span class="c">hi wow are you</span>
+	</body>
+</html>

@@ -1,0 +1,28 @@
+<html>
+	<head>
+	<style>
+	p::before{
+	content:url(https://previews.123rf.com/images/tigatelu/tigatelu1509/tigatelu150900615/45168947-smiley-happy-emoticon-cartoon-with-eye-blinking.jpg);
+	}
+	p::after{
+	content:url(https://previews.123rf.com/images/tigatelu/tigatelu1509/tigatelu150900615/45168947-smiley-happy-emoticon-cartoon-with-eye-blinking.jpg);
+	}
+	p.a::first-line{
+	color:#ff0000;
+	font-variant:small-caps;
+	font-size:20pt;
+	}
+	p::first-letter{
+	color:#ff0000;
+	font-size:xx-large;
+	}
+	::selection{
+	color:green;
+	background:yellow;
+	}
+	</style>
+	</head>
+	<body><marquee>
+	<p class="a"> You can use the ::first-line pseudo-element to add a special</p></marquee>
+	</body>
+</html>
